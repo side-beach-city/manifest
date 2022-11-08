@@ -48,6 +48,6 @@ For "SBC. Members (regardless of membership type)" who violate this agreement, i
 
 * Limited participation in events, meetings, etc.
 * Fixed/indefinite suspension of all activities
-* Withdrawal order
+* defection order
 
 In addition, non-members may be prohibited from participating in events.
