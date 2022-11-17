@@ -32,10 +32,10 @@ SBC.主催、共催のイベント、ミーティングなどに参加される�
 ご連絡頂いた内容に関しては必ず事実確認を行い、然るべき対応を行うと共に、私達はSBC.としての活動に関わる方全てを守るため、最善を尽すことをお約束します。
 
 ### 窓口担当者(個別に相談したい方はTwitterのダイレクトメッセージまでお願いします）
-* 山口良介(@maltiman)
-* 高見知英(@TakamiChie)
-* 志田健一(@chobery)
-* 万代裕美(@hinarunasora)　
+* 山口良介[@maltiman](https://twitter.com/maltiman)
+* 高見知英[@TakamiChie](https://twitter.com/TakamiChie)
+* 志田健一[@chobery](https://twitter.com/chobery)
+* 万代裕美[@hinarunasora](https://twitter.com/hinarunasora)　
 
 ### 相談窓口
 下記メールアドレスに連絡をお願い致します。
