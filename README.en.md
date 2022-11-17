@@ -34,10 +34,10 @@ If you have received, seen, or heard unacceptable behavior at an event, meeting,
 We will always confirm the facts of your contact and take appropriate action, and we promise to do our best to protect all those involved in our activities as SBC.
 
 ### Contact us  (If you would like to consult individually, please send us a direct message on Twitter.)
-・Ryosuke Yamaguchi (@maltiman)
-・Tomohide Takami (@TakamiChie)
-・Kenichi Shida (@chobery)
-・Hiromi Mandai (@hinarunasora)　
+・Ryosuke Yamaguchi[@maltiman](https://twitter.com/maltiman)
+・Tomohide Takami[@TakamiChie](https://twitter.com/TakamiChie)
+・Kenichi Shida[@chobery](https://twitter.com/chobery)
+・Hiromi Mandai[@hinarunasora](https://twitter.com/hinarunasora)
 
 ### counter in charge
 Please contact us at the following e-mail address.
